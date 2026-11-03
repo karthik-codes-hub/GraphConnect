@@ -1,0 +1,6 @@
+{
+  "name": "GraphConnect – BFS/DFS & Connectivity Lab",
+  "description": "Interactive Graph Connectivity Analyzer and BFS/DFS Performance Laboratory for visualizing traversals, analyzing graph structure, and benchmarking algorithm complexity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
